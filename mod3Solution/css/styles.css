@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+	background-color: gray;
+	margin: 0 0 20px 0;
+}
+
+.col-xs-12, .col-sm-12 {
+	padding: 20px 55px 20px 55px;
+}
+
+.col-md-12, .col-lg-12 {
+	padding: 20px 80px 20px 80px;
+}
+
+.content {
+	font-size: 1.5em;
+	padding: 10px 20px 10px 20px;
+}
+
+#chicken, #beef, #sushi {
+  text-align: center;
+}
+
+li a {
+	text-align: center;
+}
+
+* {
+	font-family: Bradley Hand, cursive;
+}
+
+hr {
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	font-family: Bradley Hand, cursive;
+}
+
+.up {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+}
